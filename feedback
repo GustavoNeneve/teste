@@ -1,0 +1,1376 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <title>Feedz - Dicas do Recrutinha! - RHBrasil</title>
+
+  <style type="text/css">
+  /* Outlines the grids, remove when sending */
+  /*table td { border: 1px solid cyan; }*/
+  /* CLIENT-SPECIFIC STYLES */
+  body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+  table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+  img { -ms-interpolation-mode: bicubic; }
+  /* RESET STYLES */
+  img { border: 0; outline: none; text-decoration: none; }
+  table { border-collapse: collapse !important; }
+  body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+  /* iOS BLUE LINKS */
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  /* ANDROID CENTER FIX */
+  div[style*="margin: 16px 0;"] { margin: 0 !important; }
+  /* MEDIA QUERIES */
+  @media all and (max-width:599px){
+    .wrapper{ width: 100% !important; max-width: 600px !important; padding: 0 !important; }
+    .container{ width:100% !important;  padding: 0 !important; }
+    .mobile{ width:100% !important; display:block!important; box-sizing: border-box!important; }
+    .img{ max-width:100% !important; height:auto !important; }
+    *[class="mobileOff"] { width: 0px !important; display: none !important; }
+    *[class*="mobileOn"] { display: block !important; max-height:none !important; }
+  }
+</style>
+
+<!--OUTLOOK FIX from htmlemailcheck.com-->
+<style type="text/css">
+  table {border-collapse:separate;}
+  a, a:link, a:visited {text-decoration: none; color: #00788a;}
+  a:hover {text-decoration: underline;}
+  h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {color:#000 !important;}
+  .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100%;}
+  .ExternalClass {width: 100%;}
+</style>
+
+
+  <!-- Reset Styles -->
+<style type="text/css" rel="stylesheet">
+  html, body, div, span, applet, object, iframe,
+  h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+  a, abbr, acronym, address, big, cite, code,
+  del, dfn, em, img, ins, kbd, q, s, samp,
+  small, strike, strong,sub, sup, tt, var,
+  b, u, i, center,
+  dl, dt, dd, li,
+  fieldset, form, label, legend,
+  table, caption, tbody, tfoot, thead, tr, th, td,
+  article, aside, canvas, details, embed,
+  figure, figcaption, footer, header, hgroup,
+  menu, nav, output, ruby, section, summary,
+  time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    color: #333333;
+    vertical-align: baseline;
+  }
+
+  body {
+    line-height: 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+  }
+
+  ol, ul {
+    font-size: 100%;
+    font: inherit;
+    color: #333333;
+    vertical-align: baseline;
+  }
+
+  blockquote, q {
+    quotes: none;
+  }
+
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+    content: '';
+    content: none;
+  }
+
+  b, strong {
+    font-weight: bold;
+  }
+
+  i, em {
+    font-style: italic;
+  }
+
+  strong, sup, sub, em, s, u {
+    color: inherit;
+  }
+
+</style>
+
+  
+
+<!-- Bricks Static Text Styles -->
+<style type="text/css" rel="stylesheet">
+
+   .bricks--component-text {
+    color: #333;
+    line-height: 1.42;
+    overflow: hidden;
+    word-wrap: break-word;
+  }
+
+   .bricks--component-text a {
+    color: #31a2ff;
+    text-decoration: none;
+  }
+
+   .bricks--component-text sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+   .bricks--component-text sub {
+    bottom: -0.25em;
+  }
+
+   .bricks--component-text sup {
+    top: -0.5em;
+  }
+
+   .bricks--component-text ol, 
+   .bricks--component-text ul {
+    padding-left: 1.5em;
+  }
+
+   .bricks--component-text ol > li,
+   .bricks--component-text ul > li {
+    list-style-type: none;
+  }
+
+   .bricks--component-text ul > li::before {
+    content: '\2022';
+  }
+
+   .bricks--component-text li::before {
+    display: inline-block;
+    white-space: nowrap;
+    width: 1.2em;
+  }
+
+   .bricks--component-text li:not(.ql-direction-rtl)::before {
+    margin-left: -1.5em;
+    margin-right: 0.3em;
+    text-align: right;
+  }
+
+   .bricks--component-text li.ql-direction-rtl::before {
+    margin-left: 0.3em;
+    margin-right: -1.5em;
+    text-align: left;
+  }
+
+   .bricks--component-text ol li:not(.ql-direction-rtl),
+   .bricks--component-text ul li:not(.ql-direction-rtl) {
+    padding-left: 1.5em;
+  }
+
+   .bricks--component-text ol li.ql-direction-rtl,
+   .bricks--component-text ul li.ql-direction-rtl {
+    padding-right: 1.5em;
+  }
+
+   .bricks--component-text ol li {
+    counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+    counter-increment: list-0;
+  }
+
+   .bricks--component-text ol li:before {
+    content: counter(list-0, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-1 {
+    counter-increment: list-1;
+  }
+
+   .bricks--component-text ol li.ql-indent-1:before {
+    content: counter(list-1, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-1 {
+    counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-2 {
+    counter-increment: list-2;
+  }
+
+   .bricks--component-text ol li.ql-indent-2:before {
+    content: counter(list-2, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-2 {
+    counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-3 {
+    counter-increment: list-3;
+  }
+
+   .bricks--component-text ol li.ql-indent-3:before {
+    content: counter(list-3, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-3 {
+    counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-4 {
+    counter-increment: list-4;
+  }
+
+   .bricks--component-text ol li.ql-indent-4:before {
+    content: counter(list-4, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-4 {
+    counter-reset: list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-5 {
+    counter-increment: list-5;
+  }
+
+   .bricks--component-text ol li.ql-indent-5:before {
+    content: counter(list-5, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-5 {
+    counter-reset: list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-6 {
+    counter-increment: list-6;
+  }
+
+   .bricks--component-text ol li.ql-indent-6:before {
+    content: counter(list-6, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-6 {
+    counter-reset: list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-7 {
+    counter-increment: list-7;
+  }
+
+   .bricks--component-text ol li.ql-indent-7:before {
+    content: counter(list-7, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-7 {
+    counter-reset: list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-8 {
+    counter-increment: list-8;
+  }
+
+   .bricks--component-text ol li.ql-indent-8:before {
+    content: counter(list-8, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-8 {
+    counter-reset: list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-9 {
+    counter-increment: list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-9:before {
+    content: counter(list-9, decimal) '. ';
+  }
+
+   .bricks--component-text .ql-indent-1:not(.ql-direction-rtl) {
+    padding-left: 3em;
+  }
+
+   .bricks--component-text li.ql-indent-1:not(.ql-direction-rtl) {
+    padding-left: 4.5em;
+  }
+
+   .bricks--component-text .ql-indent-1.ql-direction-rtl.ql-align-right {
+    padding-right: 3em;
+  }
+
+   .bricks--component-text li.ql-indent-1.ql-direction-rtl.ql-align-right {
+    padding-right: 4.5em;
+  }
+
+   .bricks--component-text .ql-indent-2:not(.ql-direction-rtl) {
+    padding-left: 6em;
+  }
+
+   .bricks--component-text li.ql-indent-2:not(.ql-direction-rtl) {
+    padding-left: 7.5em;
+  }
+
+   .bricks--component-text .ql-indent-2.ql-direction-rtl.ql-align-right {
+    padding-right: 6em;
+  }
+
+   .bricks--component-text li.ql-indent-2.ql-direction-rtl.ql-align-right {
+    padding-right: 7.5em;
+  }
+
+   .bricks--component-text .ql-indent-3:not(.ql-direction-rtl) {
+    padding-left: 9em;
+  }
+
+   .bricks--component-text li.ql-indent-3:not(.ql-direction-rtl) {
+    padding-left: 10.5em;
+  }
+
+   .bricks--component-text .ql-indent-3.ql-direction-rtl.ql-align-right {
+    padding-right: 9em;
+  }
+
+   .bricks--component-text li.ql-indent-3.ql-direction-rtl.ql-align-right {
+    padding-right: 10.5em;
+  }
+
+   .bricks--component-text .ql-indent-4:not(.ql-direction-rtl) {
+    padding-left: 12em;
+  }
+
+   .bricks--component-text li.ql-indent-4:not(.ql-direction-rtl) {
+    padding-left: 13.5em;
+  }
+
+   .bricks--component-text .ql-indent-4.ql-direction-rtl.ql-align-right {
+    padding-right: 12em;
+  }
+
+   .bricks--component-text li.ql-indent-4.ql-direction-rtl.ql-align-right {
+    padding-right: 13.5em;
+  }
+
+   .bricks--component-text .ql-indent-5:not(.ql-direction-rtl) {
+    padding-left: 15em;
+  }
+
+   .bricks--component-text li.ql-indent-5:not(.ql-direction-rtl) {
+    padding-left: 16.5em;
+  }
+
+   .bricks--component-text .ql-indent-5.ql-direction-rtl.ql-align-right {
+    padding-right: 15em;
+  }
+
+   .bricks--component-text li.ql-indent-5.ql-direction-rtl.ql-align-right {
+    padding-right: 16.5em;
+  }
+
+   .bricks--component-text .ql-indent-6:not(.ql-direction-rtl) {
+    padding-left: 18em;
+  }
+
+   .bricks--component-text li.ql-indent-6:not(.ql-direction-rtl) {
+    padding-left: 19.5em;
+  }
+
+   .bricks--component-text .ql-indent-6.ql-direction-rtl.ql-align-right {
+    padding-right: 18em;
+  }
+
+   .bricks--component-text li.ql-indent-6.ql-direction-rtl.ql-align-right {
+    padding-right: 19.5em;
+  }
+
+   .bricks--component-text .ql-indent-7:not(.ql-direction-rtl) {
+    padding-left: 21em;
+  }
+
+   .bricks--component-text li.ql-indent-7:not(.ql-direction-rtl) {
+    padding-left: 22.5em;
+  }
+
+   .bricks--component-text .ql-indent-7.ql-direction-rtl.ql-align-right {
+    padding-right: 21em;
+  }
+
+   .bricks--component-text li.ql-indent-7.ql-direction-rtl.ql-align-right {
+    padding-right: 22.5em;
+  }
+
+   .bricks--component-text .ql-indent-8:not(.ql-direction-rtl) {
+    padding-left: 24em;
+  }
+
+   .bricks--component-text li.ql-indent-8:not(.ql-direction-rtl) {
+    padding-left: 25.5em;
+  }
+
+   .bricks--component-text .ql-indent-8.ql-direction-rtl.ql-align-right {
+    padding-right: 24em;
+  }
+
+   .bricks--component-text li.ql-indent-8.ql-direction-rtl.ql-align-right {
+    padding-right: 25.5em;
+  }
+
+   .bricks--component-text .ql-indent-9:not(.ql-direction-rtl) {
+    padding-left: 27em;
+  }
+
+   .bricks--component-text li.ql-indent-9:not(.ql-direction-rtl) {
+    padding-left: 28.5em;
+  }
+
+   .bricks--component-text .ql-indent-9.ql-direction-rtl.ql-align-right {
+    padding-right: 27em;
+  }
+
+   .bricks--component-text li.ql-indent-9.ql-direction-rtl.ql-align-right {
+    padding-right: 28.5em;
+  }
+
+   .bricks--component-text .ql-direction-rtl {
+    direction: rtl;
+    text-align: inherit;
+  }
+  
+</style>
+
+  <style type="text/css" rel="stylesheet">
+  .text_and_image_table_default {
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+    border-collapse:collapse;
+  }
+
+  @media all and (max-width:599px) {
+    .text_and_image_main_table {
+      direction: ltr !important;
+    }
+
+    .text_and_image_main_tr {
+      display: block;
+    }
+
+    .text_and_image_main_td_image {
+      padding-bottom: 9px !important;
+    }
+
+    .text_and_image_main_td_text {
+      padding-top: 9px !important;
+      float: left;
+    }
+
+    .text_and_image_table_image {
+      width: 100%;
+    }
+
+    .text_and_image_table_image_td {
+      width: 100% !important;
+    }
+
+    .text_and_image_tag_image {
+      max-width: 100% !important;
+    }
+  }
+</style>
+
+  
+</head>
+
+<body style="margin:0; padding:0; background-color:#ffffff;">
+
+<span style="display: block; width: 600px !important; max-width: 600px; height: 1px" class="mobileOff"></span>
+
+<center>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
+    <tbody><tr>
+      <td align="center" valign="top">
+      
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="wrapper" bgcolor="#ffffff" style="  background-color: #ffffff;">
+  <tbody><tr>
+    <td align="center" valign="top">
+      <!-- ROW START -->
+      <table class="wrapper" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 600px;">
+        <tbody><tr>
+          <td align="center" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" class="container" style="width: 100%;">
+              <tbody><tr>
+                <!-- COLUMN START -->
+                <td class="mobile" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 20px;  padding-bottom: 0px;  padding-left: 20px;  max-width: 600px;">
+                  <!-- EMAIL HEADER START -->
+                  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  border-collapse:collapse !important;  max-width: 100%;">
+                    <tbody><tr>
+                      <td align="left" valign="middle" style="  font-size: 11px;  font-family: Helvetica, Arial, sans-serif;  color: #7b7771;  line-height: 150%;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-line-height: exactly;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  word-break: break-word !important;  padding-top: 18px;  padding-bottom: 18px; text-align:left; padding-left: 8px;">
+                      
+                      </td>
+                      <td align="right" valign="middle" style="  font-size: 11px;  font-family: Helvetica, Arial, sans-serif;  color: #7b7771;  line-height: 150%;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-line-height: exactly;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  word-break: break-word !important;  padding-top: 18px;  padding-bottom: 18px; text-align:right; padding-right: 8px;">
+                      <div style="white-space: nowrap; color: #7b7771;" nowrap="">
+                        Visualizar como
+                        <!-- O link de visualização da página web é dinâmico, por isso mantemos o placeholder. -->
+                        <a href="https://app.rdstation.email/mail/*UUID*" style="color: #333333; text-decoration: underline; " rel="nofollow" data-scanner-ignore="true">
+                            página web
+                        </a>
+                        
+                      </div></td>
+                    </tr>
+                  </tbody></table>
+                  <!-- EMAIL HEADER END -->
+                </td>
+                <!-- COLUMN END -->
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      <!-- ROW END -->
+    </td>
+  </tr>
+</tbody></table>
+      
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="rd-section-k21rzkc5" class="bricks--section wrapper rd-section" bgcolor="#04203e" style="  background-color: #04203e;  min-height: 0px;">
+  <tbody><tr>
+    <td align="center" valign="top">
+      
+<table id="rd-row-k21rzkc6" class="bricks--row wrapper rd-row " style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+  <td align="center" valign="top">
+    <table style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0" class="container">
+      <tbody><tr>
+        
+<td id="rd-column-k21s0in7" class="bricks--column mobile rd-column" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 40px;  padding-bottom: 0px;  padding-left: 40px;  width: 220px;  vertical-align: middle;">
+  
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-image-k21sq107" align="left" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  line-height:125%;  mso-line-height:exactly;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  font-size: 16px;  font-family: Helvetica, Arial,  sans-serif; color: #666666;  word-break: break-word !important;  padding: 50px 0 10px 0;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td style="  border-bottom-style: none;  border-color: #000000;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-width: 1px;">
+              
+                <a href="https://cupola.com.br/" target="" title="">
+                  <!-- Nova imagem do logo da RHBrasil. -->
+                  <img class="img" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F452981%2F1723060717Cabealho__topo_de_e-mail_1.png" alt="RHBrasil Logo" width="170" border="0" style="border:0; height: auto; max-width: 100%; display: block;">
+                </a>
+              
+            </td>
+          </tr>
+        </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- Texto do cabeçalho atualizado -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l158osoh" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 80px 0;">
+      <h1 style="text-align: left; line-height: 1.1;"><strong style="color: rgb(255, 255, 255); font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 40px;">Oi, aqui é o Recrutinha!</strong></h1>
+    </td>
+  </tr>
+</tbody></table>
+
+</td>
+
+
+<td id="rd-column-l15an3re" class="bricks--column mobile rd-column" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  width: 280px;  vertical-align: middle;">
+  
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-image-l15apsl6" align="center" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  line-height:125%;  mso-line-height:exactly;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  font-size: 16px;  font-family: Helvetica, Arial,  sans-serif; color: #666666;  word-break: break-word !important;  padding: 50px 0 50px 0;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td style="  border-bottom-style: none;  border-color: #000000;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-width: 1px;">
+              
+                <!-- Imagem atualizada do Recrutinha -->
+                <img class="img" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F452981%2F1723126742Cartes_endo.png" alt="Recrutinha" width="280" border="0" style="border:0; height: auto; max-width: 100%; display: block;">
+              
+            </td>
+          </tr>
+        </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+</td>
+
+      </tr>
+    </tbody></table>
+  </td>
+</tr>
+
+</tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="rd-section-l15583ce" class="bricks--section wrapper rd-section" bgcolor="transparent" style="  background-color: transparent;  min-height: 0px;">
+  <tbody><tr>
+    <td align="center" valign="top">
+      
+<table id="rd-row-l155ahyk" class="bricks--row wrapper rd-row " style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+  <td align="center" valign="top">
+    <table style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0" class="container">
+      <tbody><tr>
+        
+<td id="rd-column-l155ahyl" class="bricks--column mobile rd-column" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  width: 580px;  vertical-align: middle;">
+  
+<table class="rd-divider%" width="100%" border="0" cellspacing="0" cellpadding="0" style="
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+    border-collapse:collapse !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  ">
+  <tbody><tr>
+    <td bgcolor="transparent" align="left" style="
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      ">
+
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+          min-width: 100%;
+          border-collapse: initial;
+          border-top-style: solid;
+          border-top-width: 2px;
+          border-top-color: #eaeaea;
+        ">
+        <tbody>
+          <tr>
+            <td>
+              <span></span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</tbody></table>
+
+</td>
+
+      </tr>
+    </tbody></table>
+  </td>
+</tr>
+
+</tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="rd-section-k21rzrul" class="bricks--section wrapper rd-section" bgcolor="#ffffff" style="  background-color: #ffffff;  min-height: 0px;">
+  <tbody><tr>
+    <td align="center" valign="top">
+      
+<table id="rd-row-l15avrtt" class="bricks--row wrapper rd-row " style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+  <td align="center" valign="top">
+    <table style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0" class="container">
+      <tbody><tr>
+        
+<!-- COLUNA DE TEXTO PRINCIPAL ATUALIZADA -->
+<td id="rd-column-l15avrtu" class="bricks--column mobile rd-column" valign="top" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 40px;  padding-bottom: 0px;  padding-left: 20px;  width: 340px;  vertical-align: top;">
+  
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+    <tbody>
+      <tr>
+        <td align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 15px; color: #333333; word-break: break-word !important; padding: 40px 0 0 0; line-height: 1.5;">
+          
+          <p style="margin: 0 0 15px 0;">
+            Parabéns a todos que já estão usando o Feedz! 🎉 É muito bom ver cada vez mais pessoas participando, compartilhando e reconhecendo o trabalho dos colegas. Vamos continuar usando essa ferramenta para nos aproximar, trocar ideias e crescer juntos. Quanto mais usarmos, mais impacto positivo teremos no dia a dia.
+          </p>
+          <p style="margin: 0 0 15px 0;">
+            Agora, um lembrete importante: dar um bom feedback é uma habilidade que se desenvolve com prática.
+          </p>
+          <p style="margin: 0 0 5px 0;">
+            🚫 Evite comentários genéricos como “você é ótima no seu trabalho”. Eles não mostram o que a pessoa fez bem ou deve repetir. Prefira citar ações específicas, como:
+          </p>
+          <p style="font-style: italic; margin: 0 0 15px 20px;">
+            “Percebi que esta semana você finalizou todas as demandas com qualidade, sem atrasos e com atenção aos detalhes.”
+          </p>
+          <p style="margin: 0 0 15px 0;">
+            📌 Também não copie e cole o mesmo feedback para várias pessoas. Cada colega é único e merece um retorno personalizado.
+          </p>
+          <p style="margin: 0 0 15px 0;">
+            ✴️ Se eu identificar as praticas a cima, a pontuação sera desconsiderada! ✴️ 
+           </p>
+          <p style="margin: 0 0 15px 0;">
+            Na RHBrasil, acreditamos que um bom feedback aproxima, orienta e desenvolve — não serve para julgar. E, se precisar, você pode contar com o <b>A</b>migo <b>I</b>nteligente 🤖 para criar mensagens mais claras e construtivas.
+          </p>
+          <p style="margin: 0 0 10px 0;">
+            Qualquer dúvida, é só me chamar.
+          </p>
+          <p style="margin: 0;">
+            Abraços,<br>Recrutinha
+          </p>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table class="rd-divider%" width="100%" border="0" cellspacing="0" cellpadding="0" style="
+      -webkit-text-size-adjust:100%;
+      -ms-text-size-adjust:100%;
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      border-collapse:collapse !important;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    ">
+    <tbody><tr>
+      <td bgcolor="transparent" align="left" style="
+          -webkit-text-size-adjust:100%;
+          -ms-text-size-adjust:100%;
+          mso-table-lspace:0pt;
+          mso-table-rspace:0pt;
+          padding-top: 30px;
+          padding-bottom: 20px;
+        ">
+
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+            min-width: 100%;
+            border-collapse: initial;
+            border-top-style: solid;
+            border-top-width: 2px;
+            border-top-color: #eaeaea;
+          ">
+          <tbody>
+            <tr>
+              <td>
+                <span></span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody></table>
+
+
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+      min-width: 100%;
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;">
+      <tbody>
+        <tr>
+          <td style="
+            padding-top: 10px;
+            padding-bottom: 40px;
+            mso-line-height-rule: exactly;
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;" valign="top" align="center">
+
+            <table border="0" cellpadding="0" cellspacing="0" style="
+                border-collapse: separate !important;
+                border-width: 0px;
+                border-left-style: none;
+                border-right-style: none;
+                border-top-style: none;
+                border-bottom-style: none;
+                border-color: #000000;
+                border-radius: 100px;
+                mso-table-lspace: 0pt;
+                mso-table-rspace: 0pt;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;">
+
+            <tbody>
+              <tr>
+                <td align="center" valign="middle" height="54" width="360" style="
+                  font-family: Arial, sans-serif;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: bold;
+                  mso-line-height-rule: exactly;
+                  -ms-text-size-adjust: 100%;
+                  -webkit-text-size-adjust: 100%;
+                  background-color: #0aa9f9;
+                  vertical-align: middle;
+                  max-width: 360;
+                  text-align: center;
+                  padding: 0 10px 0;
+                  border-radius: 100px;
+                  line-height: 100%;
+                  mso-line-height-rule: exactly;
+                  -ms-text-size-adjust: 100%;
+                  -webkit-text-size-adjust: 100%;
+                  word-break: break-word !important;
+                  text-decoration: none;">
+                  <!-- Link real para o login da Feedz -->
+                  <a title="Any Title" href="https://app.feedz.com.br/inicio" target="_blank" style="
+                    text-decoration: none;
+                    vertical-align: inherit;
+                    color: #000000;
+                    cursor: pointer;
+                    width: 360px;
+                    height: 54px;
+                    display: table-cell;">
+                    👉 Voe para a Feedz!
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+
+</td>
+
+
+<td id="rd-column-l15avuek" class="bricks--column mobile rd-column" valign="top" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  width: 180px;  vertical-align: top;">
+  
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-k21u1igd" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 50px 0 10px 0;">
+      <p style="text-align: center; line-height: 1;"><strong style="font-size: 18px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">Conteúdos para te ajudar:</strong></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table class="bricks--box" border="0" cellpadding="0" cellspacing="0" width="100%" style="  min-width: 100%;  border-collapse: collapse;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;">
+  <tbody>
+  <tr>
+    <td style="  padding-top: 10px;  padding-bottom: 10px;  mso-line-height-rule: exactly;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;" valign="top" align="center">
+      <table border="0" cellpadding="0" cellspacing="0" style="  border-collapse: separate !important;  border-width: 1px;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-bottom-style: none;  border-color: #000000;  border-radius: 10px;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;">
+        <tbody>
+        <tr>
+          <td valign="top" width="178" bgcolor="#ececec" align="center" style="  background-color: #ececec;  padding-top: 10px;  padding-right: 10px;  padding-bottom: 10px;  padding-left: 10px;  width: 178px;">
+            
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-image-l154x4w6" align="center" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  line-height:125%;  mso-line-height:exactly;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  font-size: 16px;  font-family: Helvetica, Arial,  sans-serif; color: #666666;  word-break: break-word !important;  padding: 10px 0 10px 0;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td style="  border-bottom-style: none;  border-color: #000000;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-width: 1px;">
+              
+                <!-- Imagem do Guia prático para estruturar um programa de feedback -->
+                <img class="img" src="https://www.feedz.com.br/blog/wp-content/uploads/2021/03/feedback-continuo-5.png" alt="Guia prático para estruturar um programa de feedback" width="140" border="0" style="border:0; height: auto; max-width: 100%; display: block;">
+              
+            </td>
+          </tr>
+        </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l15aqspb" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 10px 0;">
+      <p style="line-height: 1; text-align: center;"><strong style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">Guia prático para estruturar um programa de feedback</strong></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l15at5wp" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 10px 0;">
+      <p style="line-height: 1; text-align: center;"><span style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">Aprenda a criar planos com objetivos claros para crescer na sua carreira.</span></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+    min-width: 100%;
+    border-collapse: collapse;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;">
+    <tbody>
+      <tr>
+        <td style="
+          padding-top: 10px;
+          padding-bottom: 10px;
+          mso-line-height-rule: exactly;
+          -ms-text-size-adjust: 100%;
+          -webkit-text-size-adjust: 100%;" valign="top" align="center">
+
+          <table border="0" cellpadding="0" cellspacing="0" style="
+              border-collapse: separate !important;
+              border-width: 0px;
+              border-left-style: none;
+              border-right-style: none;
+              border-top-style: none;
+              border-bottom-style: none;
+              border-color: #000000;
+              border-radius: 100px;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              -ms-text-size-adjust: 100%;
+              -webkit-text-size-adjust: 100%;">
+
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" height="40" width="150" style="
+                font-family: Trebuchet MS, Helvetica, sans-serif;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: normal;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                background-color: #0aa9f9;
+                vertical-align: middle;
+                max-width: 150;
+                text-align: center;
+                padding: 0 10px 0;
+                border-radius: 100px;
+                line-height: 100%;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                word-break: break-word !important;
+                text-decoration: none;">
+                <!-- Link real para o PDF do Guia do PDI Memorável -->
+                <a title="Any Title" href="https://materiais.feedz.com.br/conversao-ebook-programa-de-feedback" target="_blank" style="
+                  text-decoration: none;
+                  vertical-align: inherit;
+                  color: #FFFFFF;
+                  cursor: pointer;
+                  width: 150px;
+                  height: 40px;
+                  display: table-cell;">
+                  Conferir
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+<table class="bricks--box" border="0" cellpadding="0" cellspacing="0" width="100%" style="  min-width: 100%;  border-collapse: collapse;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;">
+  <tbody>
+  <tr>
+    <td style="  padding-top: 10px;  padding-bottom: 10px;  mso-line-height-rule: exactly;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;" valign="top" align="center">
+      <table border="0" cellpadding="0" cellspacing="0" style="  border-collapse: separate !important;  border-width: 1px;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-bottom-style: none;  border-color: #000000;  border-radius: 10px;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;">
+        <tbody>
+        <tr>
+          <td valign="top" width="178" bgcolor="#ececec" align="center" style="  background-color: #ececec;  padding-top: 10px;  padding-right: 10px;  padding-bottom: 10px;  padding-left: 10px;  width: 178px;">
+            
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-image-l15b134r" align="center" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  line-height:125%;  mso-line-height:exactly;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  font-size: 16px;  font-family: Helvetica, Arial,  sans-serif; color: #666666;  word-break: break-word !important;  padding: 10px 0 10px 0;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td style="  border-bottom-style: none;  border-color: #000000;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-width: 1px;">
+              
+                <!-- Imagem do Masterclass: Feedback radical -->
+                <img class="img" src="https://www.feedz.com.br/blog/wp-content/uploads/2022/09/Feedback-entre-pares-5.png" alt="Masterclass: Feedback radical" width="140" border="0" style="border:0; height: auto; max-width: 100%; display: block;">
+              
+            </td>
+          </tr>
+        </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l15b134s" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 10px 0;">
+      <p style="line-height: 1; text-align: center;"><strong style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">Masterclass: Feedback radical</strong></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l15b134t" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 10px 0;">
+      <p style="line-height: 1; text-align: center;"><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;">Desenvolva a habilidade de saber dar e receber Feedbacks</span></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+    min-width: 100%;
+    border-collapse: collapse;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;">
+    <tbody>
+      <tr>
+        <td style="
+          padding-top: 10px;
+          padding-bottom: 10px;
+          mso-line-height-rule: exactly;
+          -ms-text-size-adjust: 100%;
+          -webkit-text-size-adjust: 100%;" valign="top" align="center">
+
+          <table border="0" cellpadding="0" cellspacing="0" style="
+              border-collapse: separate !important;
+              border-width: 0px;
+              border-left-style: none;
+              border-right-style: none;
+              border-top-style: none;
+              border-bottom-style: none;
+              border-color: #000000;
+              border-radius: 100px;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              -ms-text-size-adjust: 100%;
+              -webkit-text-size-adjust: 100%;">
+
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" height="40" width="150" style="
+                font-family: Trebuchet MS, Helvetica, sans-serif;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: normal;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                background-color: #0aa9f9;
+                vertical-align: middle;
+                max-width: 150;
+                text-align: center;
+                padding: 0 10px 0;
+                border-radius: 100px;
+                line-height: 100%;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                word-break: break-word !important;
+                text-decoration: none;">
+                <!-- Link real para a Masterclass Feedback Radical -->
+                <a title="Any Title" href="https://www.feedzeduca.com.br/app/cursos-do-feedzeduca/masterclass-feedback-radical" target="_blank" style="
+                  text-decoration: none;
+                  vertical-align: inherit;
+                  color: #FFFFFF;
+                  cursor: pointer;
+                  width: 150px;
+                  height: 40px;
+                  display: table-cell;">
+                  Conferir
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+<table class="bricks--box" border="0" cellpadding="0" cellspacing="0" width="100%" style="  min-width: 100%;  border-collapse: collapse;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;">
+  <tbody>
+  <tr>
+    <td style="  padding-top: 10px;  padding-bottom: 30px;  mso-line-height-rule: exactly;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;" valign="top" align="center">
+      <table border="0" cellpadding="0" cellspacing="0" style="  border-collapse: separate !important;  border-width: 1px;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-bottom-style: none;  border-color: #000000;  border-radius: 10px;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;">
+        <tbody>
+        <tr>
+          <td valign="top" width="178" bgcolor="#ececec" align="center" style="  background-color: #ececec;  padding-top: 10px;  padding-right: 10px;  padding-bottom: 10px;  padding-left: 10px;  width: 178px;">
+            
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-image-l15b1gch" align="center" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  line-height:125%;  mso-line-height:exactly;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  font-size: 16px;  font-family: Helvetica, Arial,  sans-serif; color: #666666;  word-break: break-word !important;  padding: 10px 0 10px 0;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td style="  border-bottom-style: none;  border-color: #000000;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-width: 1px;">
+              
+                <!-- Imagem dos 100 exemplos de comentários pós avaliação de desempenho -->
+                <img class="img" src="https://www.feedz.com.br/blog/wp-content/uploads/2023/08/avaliacao-de-desempenho-e-reunioes-1-1-5.png" alt="100 exemplos de comentários pós avaliação de desempenho" width="140" border="0" style="border:0; height: auto; max-width: 100%; display: block;">
+              
+            </td>
+          </tr>
+        </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l15b1gci" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 10px 0;">
+      <p style="line-height: 1; text-align: center;"><strong style="font-size: 13px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">100 exemplos de comentários pós avaliação de desempenho</strong></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tbody><tr>
+    <td id="rd-text_email-l15b1gcj" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 0px 0 10px 0;">
+      <p style="line-height: 1; text-align: center;"><span style="font-size: 12px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">Crie avaliações mais completas.</span></p>
+    </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+    min-width: 100%;
+    border-collapse: collapse;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;">
+    <tbody>
+      <tr>
+        <td style="
+          padding-top: 10px;
+          padding-bottom: 10px;
+          mso-line-height-rule: exactly;
+          -ms-text-size-adjust: 100%;
+          -webkit-text-size-adjust: 100%;" valign="top" align="center">
+
+          <table border="0" cellpadding="0" cellspacing="0" style="
+              border-collapse: separate !important;
+              border-width: 0px;
+              border-left-style: none;
+              border-right-style: none;
+              border-top-style: none;
+              border-bottom-style: none;
+              border-color: #000000;
+              border-radius: 100px;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              -ms-text-size-adjust: 100%;
+              -webkit-text-size-adjust: 100%;">
+
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" height="40" width="150" style="
+                font-family: Trebuchet MS, Helvetica, sans-serif;
+                font-size: 14px;
+                font-style: normal;
+                font-weight: normal;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                background-color: #0aa9f9;
+                vertical-align: middle;
+                max-width: 150;
+                text-align: center;
+                padding: 0 10px 0;
+                border-radius: 100px;
+                line-height: 100%;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                word-break: break-word !important;
+                text-decoration: none;">
+                <!-- Link real para os 100 exemplos de comentários pós avaliação de desempenho -->
+                <a title="Any Title" href="https://materiais.feedz.com.br/conversao-mkt-planilha-comentarios-pos-avaliacao-de-desempenho" target="_blank" style="
+                  text-decoration: none;
+                  vertical-align: inherit;
+                  color: #FFFFFF;
+                  cursor: pointer;
+                  width: 150px;
+                  height: 40px;
+                  display: table-cell;">
+                  Conferir
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+
+</td>
+
+      </tr>
+    </tbody></table>
+  </td>
+</tr>
+
+</tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="rd-section-l158223v" class="bricks--section wrapper rd-section" bgcolor="transparent" style="  background-color: transparent;  min-height: 0px;">
+  <tbody><tr>
+    <td align="center" valign="top">
+      
+<table id="rd-row-l158223w" class="bricks--row wrapper rd-row " style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+  <td align="center" valign="top">
+    <table style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0" class="container">
+      <tbody><tr>
+        
+<td id="rd-column-l158223x" class="bricks--column mobile rd-column" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  width: 580px;  vertical-align: middle;">
+  
+<table class="rd-divider%" width="100%" border="0" cellspacing="0" cellpadding="0" style="
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+    border-collapse:collapse !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  ">
+  <tbody><tr>
+    <td bgcolor="transparent" align="left" style="
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      ">
+
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+          min-width: 100%;
+          border-collapse: initial;
+          border-top-style: solid;
+          border-top-width: 2px;
+          border-top-color: #eaeaea;
+        ">
+        <tbody>
+          <tr>
+            <td>
+              <span></span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</tbody></table>
+
+</td>
+
+      </tr>
+    </tbody></table>
+  </td>
+</tr>
+
+</tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="rd-section-l1586q2x" class="bricks--section wrapper rd-section" bgcolor="transparent" style="  background-color: transparent;  min-height: 0px;">
+  <tbody><tr>
+    <td align="center" valign="top">
+      
+<table id="rd-row-l1586q2y" class="bricks--row wrapper rd-row " style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+  <td align="center" valign="top">
+    <table style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0" class="container">
+      <tbody><tr>
+        
+<td id="rd-column-l1586q2z" class="bricks--column mobile rd-column" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  width: 580px;  vertical-align: middle;">
+  <!-- SIGNATURE START -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tbody><tr>
+    <td align="center" valign="middle" style="  font-size: 11px;  font-family: Helvetica, Arial, sans-serif;  color: #888888;  line-height: 120%;  text-align: center;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-line-height: exactly;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  word-break: break-word !important;  padding-top: 10px;  padding-bottom: 10px">
+      <p style="color: #888888;">
+        Enviado por <b style="color: #888888;">RHBrasil Recursos Humanos</b>
+      </p>
+      <p style="color: #888888;">
+        R. Blumenau, 295 - América, Joinville - SC
+      </p>
+      <p style="color: #888888;">
+        <!-- O link de cancelamento de inscrição é dinâmico, por isso mantemos o placeholder. -->
+        Se deseja não receber mensagens como esta, por favor
+        <a href="https://app.rdstation.email/descadastrar/*UUID*" style="color: #333333; text-decoration: underline;" rel="nofollow" data-scanner-ignore="true">
+          clique aqui</a>.
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+<!-- SIGNATURE END -->
+</td>
+
+      </tr>
+    </tbody></table>
+  </td>
+</tr>
+
+</tbody></table>
+
+      </td>
+    </tr>
+  </tbody></table>
+</center>
+
+
+
+</body></html>
